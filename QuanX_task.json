@@ -1,0 +1,23 @@
+{
+  "name":"QuanX cron",
+  "task":[
+/***** ***** 示例 ***** *****
+    {
+      "config": "cron时间 脚本url, tag=名称, img-url=图片url, enabled=true",
+      "addons": "配置url, tag=配置名称, update-interval=86400, opt-parser=false, enabled=true"
+    },
+    {
+      "config":"0 0 * * * https://xx.xx/sample.js, tag=sample, img-url=https://xx.xx/sample.png, enabled=true",
+      "addons":"https://xx.xx/sample.conf, tag=sample, update-interval=86400, opt-parser=false, enabled=true"
+    },
+    "cron时间 脚本url, tag=名称, img-url=图片url, enabled=true",
+    "1 0 * * * https://xx.js, tag=xx, img-url=https://xx.png, enabled=true",
+***** ***** 结束 ***** *****/
+    {
+      "config":"",
+      "addons":""
+    },
+    "1 0 * * * https://raw.githubusercontent.com/wf021325/qx/master/task/wbzj.js, tag=腕表之家签到, enabled=true"
+  ]
+  "description":"自用task脚本"
+}
