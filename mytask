@@ -1,0 +1,7 @@
+{
+  "name":"mytask",
+  "task":[
+    "1 0 * * * https://raw.githubusercontent.com/wf021325/qx/master/task/wbzj.js, tag=腕表之家签到, enabled=true"
+  ]
+  "description":"mytask"
+}
