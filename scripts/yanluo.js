@@ -1,7 +1,7 @@
 /***** ***** ***** ***** *****
 
 [task_local]
-1 0 * * * * https://raw.githubusercontent.com/shling680/QuanX/main/scripts/yanluo.js
+1 0 * * * * https://raw.githubusercontent.com/shling680/QuanX/main/scripts/yanluo.js, tag=阎王签到, enabled=true
 
 ***** ***** ***** ***** *****/
 
