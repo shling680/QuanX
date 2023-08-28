@@ -6,6 +6,6 @@
 ***** ***** ***** ***** *****/
 
 
-const yanluo = new Date()+"\n时不待我,争分夺秒";
+const yanluo = new Date()+"\n对比昨日，寿元减少一天。时不待我，吾辈当争分夺秒...";
 $notify("阎王签到", "👻 签到成功 寿元减少1天", yanluo);
 $done();
