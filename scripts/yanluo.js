@@ -1,7 +1,7 @@
 /***** ***** ***** ***** *****
 
 [task_local]
-*/60 * * * * yanluo.js
+*/60 * * * * https://raw.githubusercontent.com/shling680/QuanX/main/scripts/yanluo.js
 
 ***** ***** ***** ***** *****/
 
