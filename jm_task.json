@@ -1,9 +1,12 @@
 {
-  "name": "jm_task",
-  "description": "jm_task",
+  "name": "shling680",
+  "description": "jm签到",
   "task": [
     {
       "config": "1 0 * * * https://raw.githubusercontent.com/shling680/QuanX/main/scripts/yanluo.js, tag=阎王签到, enabled=true"
+    },
+    {
+      "config": "0 6 * * * https://raw.githubusercontent.com/shling680/QuanX/main/scripts/jrcx.js, tag=吉日查询, enabled=true" 
     }
   ]
 }
